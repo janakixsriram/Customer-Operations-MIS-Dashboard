@@ -1,4 +1,4 @@
-# 📞 Call Centre Dashboard - 2023
+# Customer Operations MIS Dashboard- 2023
 
 An interactive Excel dashboard designed to analyze call center performance data including call volumes, revenue, call durations, and customer satisfaction.
 
